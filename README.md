@@ -8,7 +8,7 @@
 |Abrigo Angelo|-|Apostolo|
 |Adamo Giorgio|-|Apostolo|
 |Battaglio Marzia|-|Apostolo|
-|Benetello Lorenzo Gianni|-|Apostolo|
+|Benetello Lorenzo Gianni|[BenetelloLorenzo](https://github.com/BenetelloLorenzo)|Apostolo|
 |Bollito Isabella|-|Apostolo|
 |Bonino Francesco Luigi|-|Apostolo|
 |Casetta Riccardo|-|Apostolo|
