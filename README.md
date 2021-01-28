@@ -15,7 +15,7 @@
 |Dehbi Lamya|-|Apostolo|
 |Dogliani Matteo|-|Apostolo|
 |Klevisa Kocaj|-|Apostolo|
-|Manera Giacomo|-|Apostolo|
+|Manera Giacomo|[JackMane](https://github.com/JackMane)|Apostolo|
 |Mascarello Mattia|[MatMasIt](https://github.com/MatMasIt)|Sidereus Nuncius (*)|
 |Menzio Giorgio|-|Apostolo|
 |Predieri Matteo|-|Apostolo|
