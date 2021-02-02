@@ -12,7 +12,7 @@
 |Bollito Isabella|[isabella-bollito](https://github.com/isabella-bollito)|Apostolo|
 |Bonino Francesco Luigi|[pomello03](https://github.com/pomello03)|Apostolo|
 |Casetta Riccardo|-|Apostolo|
-|Dehbi Lamya|-|Apostolo|
+|Dehbi Lamya|[lamya-dehbi](https://github.com/lamya-dehbi)|Apostolo|
 |Dogliani Matteo|-|Apostolo|
 |Klevisa Kocaj|-|Apostolo|
 |Manera Giacomo|[JackMane](https://github.com/JackMane)|Apostolo|
