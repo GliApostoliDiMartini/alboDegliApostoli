@@ -17,7 +17,7 @@
 |Klevisa Kocaj|-|Apostolo|
 |Manera Giacomo|[JackMane](https://github.com/JackMane)|Apostolo|
 |Mascarello Mattia|[MatMasIt](https://github.com/MatMasIt)|Sidereus Nuncius (*)|
-|Menzio Giorgio|-|Apostolo|
+|Menzio Giorgio|[Manziere](https://github.com/Manziere)|Apostolo|
 |Predieri Matteo|-|Apostolo|
 |Roggero Giacomo|[Adynaton44](https://github.com/Adynaton44)|Apostolo|
 |Scanavino Diego|[DiegoS2003](https://github.com/DiegoS2003)|Apostolo|
