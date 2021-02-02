@@ -18,7 +18,7 @@
 |Manera Giacomo|[JackMane](https://github.com/JackMane)|Apostolo|
 |Mascarello Mattia|[MatMasIt](https://github.com/MatMasIt)|Sidereus Nuncius (*)|
 |Menzio Giorgio|[Manziere](https://github.com/Manziere)|Apostolo|
-|Predieri Matteo|-|Apostolo|
+|Predieri Matteo|[AmicoPizzaPazzo](https://github.com/AmicoPizzaPazzo)|Apostolo|
 |Roggero Giacomo|[Adynaton44](https://github.com/Adynaton44)|Apostolo|
 |Scanavino Diego|[DiegoS2003](https://github.com/DiegoS2003)|Apostolo|
 
