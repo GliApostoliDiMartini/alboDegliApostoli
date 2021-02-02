@@ -19,7 +19,7 @@
 |Mascarello Mattia|[MatMasIt](https://github.com/MatMasIt)|Sidereus Nuncius (*)|
 |Menzio Giorgio|-|Apostolo|
 |Predieri Matteo|-|Apostolo|
-|Roggero Giacomo|-|Apostolo|
+|Roggero Giacomo|[Adynaton44](https://github.com/Adynaton44)|Apostolo|
 |Scanavino Diego|[DiegoS2003](https://github.com/DiegoS2003)|Apostolo|
 
 (*) Amministratore
