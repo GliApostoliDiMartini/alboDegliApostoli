@@ -14,7 +14,7 @@
 |Casetta Riccardo|[rikycase](https://github.com/rikycase)|Apostolo|
 |Dehbi Lamya|[lamya-dehbi](https://github.com/lamya-dehbi)|Apostolo|
 |Dogliani Matteo|[MatteoDogliani](https://github.com/MatteoDogliani)|Apostolo|
-|Klevisa Kocaj|[Klevisa03](https://github.com/Klevisa02)|Apostolo|
+|Klevisa Kocaj|[Klevisa03](https://github.com/Klevisa03)|Apostolo|
 |Manera Giacomo|[JackMane](https://github.com/JackMane)|Apostolo|
 |Mascarello Mattia|[MatMasIt](https://github.com/MatMasIt)|Sidereus Nuncius (*)|
 |Menzio Giorgio|[Manziere](https://github.com/Manziere)|Apostolo|
