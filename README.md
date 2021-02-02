@@ -5,7 +5,7 @@
 ## Gli apostoli
 |Nome e Cognome|Link|Ruolo|
 |----|----|----|
-|Abrigo Angelo|-|Apostolo|
+|Abrigo Angelo|[AngeloAbrigo](https://github.com/AngeloAbrigo)|Apostolo|
 |Adamo Giorgio|-|Apostolo|
 |Battaglio Marzia|[marziabat](https://github.com/marziabat)|Apostolo|
 |Benetello Lorenzo Gianni|[BenetelloLorenzo](https://github.com/BenetelloLorenzo)|Apostolo|
