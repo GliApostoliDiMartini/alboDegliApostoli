@@ -9,7 +9,7 @@
 |Adamo Giorgio|-|Apostolo|
 |Battaglio Marzia|[marziabat](https://github.com/marziabat)|Apostolo|
 |Benetello Lorenzo Gianni|[BenetelloLorenzo](https://github.com/BenetelloLorenzo)|Apostolo|
-|Bollito Isabella|-|Apostolo|
+|Bollito Isabella|[isabella-bollito](https://github.com/isabella-bollito)|Apostolo|
 |Bonino Francesco Luigi|[pomello03](https://github.com/pomello03)|Apostolo|
 |Casetta Riccardo|-|Apostolo|
 |Dehbi Lamya|-|Apostolo|
