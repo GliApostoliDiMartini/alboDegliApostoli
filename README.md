@@ -11,7 +11,7 @@
 |Benetello Lorenzo Gianni|[BenetelloLorenzo](https://github.com/BenetelloLorenzo)|Apostolo|
 |Bollito Isabella|[isabella-bollito](https://github.com/isabella-bollito)|Apostolo|
 |Bonino Francesco Luigi|[pomello03](https://github.com/pomello03)|Apostolo|
-|Casetta Riccardo|-|Apostolo|
+|Casetta Riccardo|[rikycase](https://github.com/rikycase)|Apostolo|
 |Dehbi Lamya|[lamya-dehbi](https://github.com/lamya-dehbi)|Apostolo|
 |Dogliani Matteo|[MatteoDogliani](https://github.com/MatteoDogliani)|Apostolo|
 |Klevisa Kocaj|-|Apostolo|
