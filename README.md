@@ -6,7 +6,7 @@
 |Nome e Cognome|Link|Ruolo|
 |----|----|----|
 |Abrigo Angelo|[AngeloAbrigo](https://github.com/AngeloAbrigo)|Apostolo|
-|Adamo Giorgio|-|Apostolo|
+|Adamo Giorgio|[Sinodo](https://github.com/Sinodo)|Apostolo|
 |Battaglio Marzia|[marziabat](https://github.com/marziabat)|Apostolo|
 |Benetello Lorenzo Gianni|[BenetelloLorenzo](https://github.com/BenetelloLorenzo)|Apostolo|
 |Bollito Isabella|[isabella-bollito](https://github.com/isabella-bollito)|Apostolo|
