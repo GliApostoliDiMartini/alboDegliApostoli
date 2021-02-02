@@ -13,7 +13,7 @@
 |Bonino Francesco Luigi|[pomello03](https://github.com/pomello03)|Apostolo|
 |Casetta Riccardo|-|Apostolo|
 |Dehbi Lamya|[lamya-dehbi](https://github.com/lamya-dehbi)|Apostolo|
-|Dogliani Matteo|-|Apostolo|
+|Dogliani Matteo|[MatteoDogliani](https://github.com/MatteoDogliani)|Apostolo|
 |Klevisa Kocaj|-|Apostolo|
 |Manera Giacomo|[JackMane](https://github.com/JackMane)|Apostolo|
 |Mascarello Mattia|[MatMasIt](https://github.com/MatMasIt)|Sidereus Nuncius (*)|
